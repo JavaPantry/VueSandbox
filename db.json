@@ -1,0 +1,531 @@
+{
+  "parts": [
+    {
+      "id": 1,
+      "multipleControl": "N",
+      "returnControl": "0",
+      "pprtcd": "QWERTY1234_Alex",
+      "pprtn1": "DPS PART",
+      "pprtst": "07AA75062                    ",
+      "pcat": "231",
+      "pprdcd": "D ",
+      "pcstlm": 6.5,
+      "pcst": 6.5,
+      "pvndc1": "OCEUSA"
+    },
+    {
+      "id": 2,
+      "multipleControl": "N",
+      "returnControl": "0",
+      "pprtcd": "Q12345DTS",
+      "pprtn1": "DPS PART",
+      "pprtst": "20AA15150                     ",
+      "pcat": "231",
+      "pprdcd": "D ",
+      "pcstlm": 2.17,
+      "pcst": 2.17,
+      "pvndc1": "OCEUSA"
+    },
+    {
+      "id": 3,
+      "multipleControl": "N",
+      "returnControl": "0",
+      "pprtcd": "Perfect12312399_Its_Done!",
+      "pprtn1": "DPS PART",
+      "pprtst": "50GAA70400                    ",
+      "pcat": "231",
+      "pprdcd": "D ",
+      "pcstlm": 0.01,
+      "pcst": 0.01,
+      "pvndc1": "OCEUSA"
+    },
+    {
+      "id": 4,
+      "multipleControl": "N",
+      "returnControl": "0",
+      "pprtcd": "QWERTY123456789dsgdgds",
+      "pprtn1": "DPS PART",
+      "pprtst": "56AA20700                     ",
+      "pcat": "231",
+      "pprdcd": "D ",
+      "pcstlm": 4.91,
+      "pcst": 4.91,
+      "pvndc1": "OCEUSA"
+    },
+    {
+      "id": 5,
+      "multipleControl": "Y",
+      "returnControl": "0",
+      "pprtcd": "Part56AA207800",
+      "pprtn1": "DPS PART",
+      "pprtst": "56AA207800                    ",
+      "pcat": "231",
+      "pprdcd": "D ",
+      "pcstlm": 0.01,
+      "pcst": 0.01,
+      "pvndc1": "OCEUSA"
+    },
+    {
+      "id": 6,
+      "multipleControl": "Y",
+      "returnControl": "0",
+      "pprtcd": "56AA42541_QWERTY_Alex",
+      "pprtn1": "DPS PART",
+      "pprtst": "56AA42541                     ",
+      "pcat": "231",
+      "pprdcd": "D ",
+      "pcstlm": 15.56,
+      "pcst": 15.56,
+      "pvndc1": "OCEUSA"
+    },
+    {
+      "id": 7,
+      "multipleControl": "N",
+      "returnControl": "0",
+      "pprtcd": "56AA42701      ",
+      "pprtn1": "DPS PART",
+      "pprtst": "56AA42701                     ",
+      "pcat": "231",
+      "pprdcd": "D ",
+      "pcstlm": 1.83,
+      "pcst": 1.83,
+      "pvndc1": "OCEUSA"
+    },
+    {
+      "id": 8,
+      "multipleControl": "Y",
+      "returnControl": "0",
+      "pprtcd": "QWERTY123_TEST_REDUCERS",
+      "pprtn1": "DPS PART",
+      "pprtst": "56AA53160                     ",
+      "pcat": "231",
+      "pprdcd": "D ",
+      "pcstlm": 1.15,
+      "pcst": 1.15,
+      "pvndc1": "OCEUSA"
+    },
+    {
+      "id": 9,
+      "multipleControl": "Y",
+      "returnControl": "0",
+      "pprtcd": "56AA6020QWERTYALEX",
+      "pprtn1": "DPS PART",
+      "pprtst": "56AA6020                      ",
+      "pcat": "231",
+      "pprdcd": "D ",
+      "pcstlm": 0.01,
+      "pcst": 0.01,
+      "pvndc1": "OCEUSA"
+    },
+    {
+      "id": 10,
+      "multipleControl": "Y",
+      "returnControl": "0",
+      "pprtcd": "TEST_1234567890",
+      "pprtn1": "DPS PART",
+      "pprtst": "56AA77180                     ",
+      "pcat": "231",
+      "pprdcd": "D ",
+      "pcstlm": 10.98,
+      "pcst": 10.98,
+      "pvndc1": "OCEUSA"
+    },
+    {
+      "id": 11,
+      "multipleControl": "N",
+      "returnControl": "1",
+      "pprtcd": "2002056260     ",
+      "pprtn1": "PCB FMAAA, PROCESSOR          ",
+      "pprtst": "2002056260                    ",
+      "pcat": "248",
+      "pprdcd": "Y ",
+      "pcstlm": 1466.24,
+      "pcst": 1466.24,
+      "pvndc1": "OCEGER"
+    },
+    {
+      "id": 12,
+      "multipleControl": "N",
+      "returnControl": "1",
+      "pprtcd": "2002058527     ",
+      "pprtn1": "PCB OPAAA, PROCESSOR          ",
+      "pprtst": "2002058527                    ",
+      "pcat": "248",
+      "pprdcd": "Y ",
+      "pcstlm": 1469.21,
+      "pcst": 1469.21,
+      "pvndc1": "OCEGER"
+    },
+    {
+      "id": 13,
+      "multipleControl": "N",
+      "returnControl": "0",
+      "pprtcd": "2002059020     ",
+      "pprtn1": "PCB TRAAA LOGIC               ",
+      "pprtst": "2002059020                    ",
+      "pcat": "241",
+      "pprdcd": "Y ",
+      "pcstlm": 552.37,
+      "pcst": 552.37,
+      "pvndc1": "OCEGER"
+    }
+  ],
+  "warehouse": [
+    {
+      "compositeId": {
+        "partCode": "2001774956",
+        "locationCode": "ZMAM"
+      },
+      "part": {
+        "multipleControl": "N",
+        "returnControl": "1",
+        "pprtcd": "2001774956     ",
+        "pprtn1": "PCB BIAAB                     ",
+        "pprtst": "2001774956                    ",
+        "pcat": "235",
+        "pprdcd": "D ",
+        "pcstlm": 163.6,
+        "pcst": 163.6,
+        "pvndc1": "OCEGER"
+      },
+      "location": {
+        "locationCode": "ZMAM  ",
+        "szoncd": "ZM",
+        "locationName": "MOORE NORTH AMERICA-MONTREAL  ",
+        "sslsmc": "213   ",
+        "ssupnm": "PASTOR UDIT    ",
+        "stecph": "416-253-6087",
+        "stecsc": " ",
+        "sshpdp": "      ",
+        "scrtby": "ZBXC",
+        "scrtda": 20120906
+      },
+      "currentStockQty": 1,
+      "standardStockQty": 0,
+      "creationDate": 20130103,
+      "binLocation": "40A00",
+      "invFlag": "T",
+      "autoReplenishIndicator": null,
+      "returnControl": "1",
+      "locationName": "MOORE NORTH AMERICA-MONTREAL  ",
+      "partName": "PCB BIAAB                     ",
+      "partCode": "2001774956",
+      "locationCode": "ZMAM"
+    },
+    {
+      "compositeId": {
+        "partCode": "2001774956",
+        "locationCode": "ZSYT"
+      },
+      "part": {
+        "multipleControl": "N",
+        "returnControl": "1",
+        "pprtcd": "2001774956     ",
+        "pprtn1": "PCB BIAAB                     ",
+        "pprtst": "2001774956                    ",
+        "pcat": "235",
+        "pprdcd": "D ",
+        "pcstlm": 163.6,
+        "pcst": 163.6,
+        "pvndc1": "OCEGER"
+      },
+      "location": {
+        "locationCode": "ZSYT  ",
+        "szoncd": "ZT",
+        "locationName": "SYMCOR-MISSISSAUGA            ",
+        "sslsmc": "413   ",
+        "ssupnm": "PASTOR UDIT    ",
+        "stecph": "416-253-6087",
+        "stecsc": " ",
+        "sshpdp": "      ",
+        "scrtby": "ZBXC",
+        "scrtda": 20120906
+      },
+      "currentStockQty": 1,
+      "standardStockQty": 0,
+      "creationDate": 20130103,
+      "binLocation": "12C00",
+      "invFlag": "T",
+      "autoReplenishIndicator": null,
+      "returnControl": "1",
+      "locationName": "SYMCOR-MISSISSAUGA            ",
+      "partName": "PCB BIAAB                     ",
+      "partCode": "2001774956",
+      "locationCode": "ZSYT"
+    },
+    {
+      "compositeId": {
+        "partCode": "2001774956",
+        "locationCode": "C1"
+      },
+      "part": {
+        "multipleControl": "N",
+        "returnControl": "1",
+        "pprtcd": "2001774956     ",
+        "pprtn1": "PCB BIAAB                     ",
+        "pprtst": "2001774956                    ",
+        "pcat": "235",
+        "pprdcd": "D ",
+        "pcstlm": 163.6,
+        "pcst": 163.6,
+        "pvndc1": "OCEGER"
+      },
+      "location": {
+        "tcmnf1": "CHOICE LOGISTICS TORONTO                ",
+        "locationCode": "C1",
+        "locationName": "CHOICE TOR  "
+      },
+      "currentStockQty": 4,
+      "standardStockQty": 0,
+      "creationDate": 20130103,
+      "binLocation": null,
+      "invFlag": "W",
+      "autoReplenishIndicator": "N",
+      "returnControl": "1",
+      "locationName": "CHOICE TOR  ",
+      "partName": "PCB BIAAB                     ",
+      "partCode": "2001774956",
+      "locationCode": "C1"
+    }
+  ],
+  "invtnames": [
+    {
+      "locationCode": "CADU  ",
+      "locationName": "Cansel/Dutech-Montreal        "
+    },
+    {
+      "locationCode": "CYSP  ",
+      "locationName": "Calgary Showroom              "
+    },
+    {
+      "locationCode": "EDSP  ",
+      "locationName": "Edmonton Showroom             "
+    },
+    {
+      "locationCode": "MTSP  ",
+      "locationName": "Montreal Showroom             "
+    },
+    {
+      "locationCode": "VNSP  ",
+      "locationName": "Vancouver Showroom            "
+    },
+    {
+      "locationCode": "WCCC  ",
+      "locationName": "Carbon Copy                   "
+    },
+    {
+      "locationCode": "WCCE  ",
+      "locationName": "CARBON COPY EDMONTON          "
+    },
+    {
+      "locationCode": "WCLP  ",
+      "locationName": "Canon Canada(PPSG)-Calgary    "
+    },
+    {
+      "locationCode": "WEDP  ",
+      "locationName": "Canon Canada(PPSG)-Edmonton   "
+    },
+    {
+      "locationCode": "WJBE  ",
+      "locationName": "JENSEN BLUEPRINT              "
+    },
+    {
+      "locationCode": "WLRW  ",
+      "locationName": "Laufman reprographics         "
+    },
+    {
+      "locationCode": "WMRC  ",
+      "locationName": "Maranda Reprographics & Print "
+    },
+    {
+      "locationCode": "WRDTC ",
+      "locationName": "RILEYS MAIN (DT)              "
+    },
+    {
+      "locationCode": "WREC  ",
+      "locationName": "Rileys East Calgary           "
+    },
+    {
+      "locationCode": "WRER  ",
+      "locationName": "RILEYS REGINA EAST            "
+    },
+    {
+      "locationCode": "WRME  ",
+      "locationName": "RILEYS MAIN EDMONTON          "
+    },
+    {
+      "locationCode": "WRMWR ",
+      "locationName": "RILEYS MAIN WEST REGINA       "
+    },
+    {
+      "locationCode": "WRRD  ",
+      "locationName": "RR Donnelly Oshawa-WFPS Parts "
+    },
+    {
+      "locationCode": "WRSC  ",
+      "locationName": "RILEYS SOUTH                  "
+    },
+    {
+      "locationCode": "WRSE  ",
+      "locationName": "RILEYS SOUTH EDMONTON         "
+    },
+    {
+      "locationCode": "WRSTE ",
+      "locationName": "RILEYS STANTEC EDMONTON       "
+    },
+    {
+      "locationCode": "WRWE  ",
+      "locationName": "RILEYS WEST EDMONTON          "
+    },
+    {
+      "locationCode": "WRWN  ",
+      "locationName": "RILEYS WINNIPEG NORTH         "
+    },
+    {
+      "locationCode": "WSAS  ",
+      "locationName": "Rileys Saskatoon              "
+    },
+    {
+      "locationCode": "WWCC  ",
+      "locationName": "WEST CANADIAN                 "
+    },
+    {
+      "locationCode": "WWCE  ",
+      "locationName": "WEST CANADIAN EDMONTON        "
+    },
+    {
+      "locationCode": "YHOP  ",
+      "locationName": "Canon Canada Inc PPSG HO      "
+    },
+    {
+      "locationCode": "ZAON  ",
+      "locationName": "AON                           "
+    },
+    {
+      "locationCode": "ZAVN  ",
+      "locationName": "AVON CANADA INC.              "
+    },
+    {
+      "locationCode": "ZCES  ",
+      "locationName": "CNESTT                        "
+    },
+    {
+      "locationCode": "ZCPS  ",
+      "locationName": "COMPUTERSHARE INVESTOR SERVICE"
+    },
+    {
+      "locationCode": "ZCST  ",
+      "locationName": "CNESST-COMMISSION DES NORMES  "
+    },
+    {
+      "locationCode": "ZCTP  ",
+      "locationName": "CARSWELL THOMSON PUBLISHING   "
+    },
+    {
+      "locationCode": "ZCUP  ",
+      "locationName": "Credit Union Payment Services "
+    },
+    {
+      "locationCode": "ZDBC  ",
+      "locationName": "DATA BUSINESS FORMS - CALGARY "
+    },
+    {
+      "locationCode": "ZDBF  ",
+      "locationName": "DATA BUSINESS FORMS - EDMONTON"
+    },
+    {
+      "locationCode": "ZDGM  ",
+      "locationName": "DATA GROUP OF COMPANIES-DRUMMO"
+    },
+    {
+      "locationCode": "ZDGT  ",
+      "locationName": "DATA GROUP OF COMPANIES-BR    "
+    },
+    {
+      "locationCode": "ZFEX  ",
+      "locationName": "FEDEX                         "
+    },
+    {
+      "locationCode": "ZGUV  ",
+      "locationName": "IMPRIMERIE GAUVIN LTEE        "
+    },
+    {
+      "locationCode": "ZHC1  ",
+      "locationName": "HOUSE OF COMMONS-CENTRE BLOCK "
+    },
+    {
+      "locationCode": "ZHC2  ",
+      "locationName": "HOUSE OF COMMONS-DON REID RD  "
+    },
+    {
+      "locationCode": "ZKUB  ",
+      "locationName": "KUBRA INTERNATIONAL           "
+    },
+    {
+      "locationCode": "ZLEX  ",
+      "locationName": "Labelix                       "
+    },
+    {
+      "locationCode": "ZLMG  ",
+      "locationName": "LOWE MARTIN GROUP             "
+    },
+    {
+      "locationCode": "ZLOW  ",
+      "locationName": "Lowes                         "
+    },
+    {
+      "locationCode": "ZMAM  ",
+      "locationName": "MOORE NORTH AMERICA-MONTREAL  "
+    },
+    {
+      "locationCode": "ZMAQ  ",
+      "locationName": "IMPREMERIE MARQUIS            "
+    },
+    {
+      "locationCode": "ZMAT  ",
+      "locationName": "MOORE NORTH AMERICA-MISSISSAU."
+    },
+    {
+      "locationCode": "ZMPT  ",
+      "locationName": "Multiple Pakfold              "
+    },
+    {
+      "locationCode": "ZNEL  ",
+      "locationName": "NELSON EDUCATION LTD.         "
+    },
+    {
+      "locationCode": "ZNES  ",
+      "locationName": "NOVITEX ENTERPRISE SOLUTIONS  "
+    },
+    {
+      "locationCode": "ZPLM  ",
+      "locationName": "PLM GROUP                     "
+    },
+    {
+      "locationCode": "ZPTC  ",
+      "locationName": "COPYWELL                      "
+    },
+    {
+      "locationCode": "ZPXC  ",
+      "locationName": "PRINTLINX CORPORATION         "
+    }
+  ],
+  "persons": [
+    {
+      "id": 1,
+      "name": "Alexei"
+    },
+    {
+      "id": 2,
+      "name": "Bohdan"
+    },
+    {
+      "id": 3,
+      "name": "Hong"
+    },
+    {
+      "id": 4,
+      "name": "Igor"
+    }
+  ]
+}
